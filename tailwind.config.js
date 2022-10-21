@@ -10,6 +10,7 @@ module.exports = {
       colors: {
         trwaifu: "#3C38FC",
         teambg: "#363498",
+        placeholder: "#D9D9D9",
       },
     },
   },

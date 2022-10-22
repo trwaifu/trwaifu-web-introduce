@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f552f5fc.css",
-    "main.js": "/static/js/main.0fe0191e.js",
-    "static/media/emilia.png": "/static/media/emilia.5f34ec9cb2685b27ac16.png",
-    "static/media/trwaifutext.png": "/static/media/trwaifutext.45d0ca4e1fdd8aadf267.png",
-    "static/media/headervec.png": "/static/media/headervec.34c7e678a631640abcdc.png",
-    "index.html": "/index.html",
-    "main.f552f5fc.css.map": "/static/css/main.f552f5fc.css.map",
-    "main.0fe0191e.js.map": "/static/js/main.0fe0191e.js.map"
+    "main.css": "/trwaifu-web-introduce/static/css/main.1ad0f57d.css",
+    "main.js": "/trwaifu-web-introduce/static/js/main.3f03f08a.js",
+    "static/media/emilia.png": "/trwaifu-web-introduce/static/media/emilia.5f34ec9cb2685b27ac16.png",
+    "static/media/trwaifutext.png": "/trwaifu-web-introduce/static/media/trwaifutext.45d0ca4e1fdd8aadf267.png",
+    "static/media/headervec.png": "/trwaifu-web-introduce/static/media/headervec.34c7e678a631640abcdc.png",
+    "index.html": "/trwaifu-web-introduce/index.html",
+    "main.1ad0f57d.css.map": "/trwaifu-web-introduce/static/css/main.1ad0f57d.css.map",
+    "main.3f03f08a.js.map": "/trwaifu-web-introduce/static/js/main.3f03f08a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f552f5fc.css",
-    "static/js/main.0fe0191e.js"
+    "static/css/main.1ad0f57d.css",
+    "static/js/main.3f03f08a.js"
   ]
 }

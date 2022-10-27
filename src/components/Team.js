@@ -2,14 +2,21 @@ import { useLanyard } from "react-use-lanyard";
 
 const Team = () => {
   const { data } = useLanyard({
-    userId: ["701896585604497490", "817417815396974683", "525021408196296720"],
+    userId: [
+      "701896585604497490",
+      "817417815396974683",
+      "488839097537003521",
+      "525021408196296720",
+    ],
   });
 
   const role = [
     "Fullstack Developer",
     "Backend Developer",
+    "I dont know!!!!!!",
     "Backend Developer",
   ];
+
   console.group(data);
   return (
     <div className="px-20">
@@ -25,8 +32,7 @@ const Team = () => {
                   src={
                     "https://cdn.discordapp.com/avatars/" +
                     `${data.discord_user.id}/` +
-                    data.discord_user.avatar +
-                    ".png?size=128"
+                    data.discord_user.avatar
                   }
                   alt="userimg"
                   className="mx-auto rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
